@@ -10,8 +10,6 @@ import pptx
 import csv
 import sys
 from datetime import datetime
-from google.oauth2 import service_account
-from google.cloud import translate_v2 as translate
 base_path = os.path.dirname(abspath('__file__'))
 results_path = base_path + '\\' + 'results'
 csv_path = results_path + '\\' + 'results.csv'
