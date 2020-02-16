@@ -11,6 +11,6 @@ Compilation notes (these steps necessary to ensure that package is small; otherw
   
 Usage notes  
 1. Keep model files in folder named "model"  
-2. Keep solution files in folders named "test_{solution}", e.g. google would be "test_google"  
+2. Keep solution files in folders named "test_{solution}", e.g. abc would be "test_abc"  
 3. All solution files should have same names as model files  
 4. Keep doc_compare script file in the same folder as model and solution folders and double click to run  
